@@ -10,6 +10,8 @@ Elmas
 
 Wakaba
 
+19ty02
+
 # 目录
 ```
 seminar/
